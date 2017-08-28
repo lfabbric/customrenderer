@@ -1,0 +1,6 @@
+{
+    "renderers" : {
+        "json" : "plugins.CustomRenderer.renderers.JSONRenderer",
+        "xml" : "plugins.CustomRenderer.renderers.XMLRenderer"
+    }
+}
